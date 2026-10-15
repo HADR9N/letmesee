@@ -1,0 +1,11 @@
+.env
+.venv/
+venv/
+node_modules/
+dist/
+__pycache__/
+*.py[cod]
+tsconfig.tsbuildinfo
+results.json
+.vercel/
+data/
